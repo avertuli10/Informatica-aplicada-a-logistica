@@ -8,3 +8,4 @@ https://centropaulasouza-my.sharepoint.com/:p:/r/personal/arthur_vertuli_aluno_c
 <img width="933" height="500" alt="image" src="https://github.com/user-attachments/assets/4c6f085e-2cd6-44d4-b2ab-75dcc29834e1" />
 <img width="761" height="426" alt="image" src="https://github.com/user-attachments/assets/6fe1f812-7103-4fca-851b-19d2a552d1f4" />
 <img width="906" height="451" alt="image" src="https://github.com/user-attachments/assets/92f3aea0-375a-4377-9528-7f3d2a45ea78" />
+<img width="488" height="293" alt="image" src="https://github.com/user-attachments/assets/c6f09bbe-493b-42d5-99f8-0faa064c1d97" />
